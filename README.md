@@ -19,7 +19,7 @@ Click the "Roll Dice" button to generate random dice values for both players. Th
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/yourusername/dicee-game.git
+   git clone https://github.com/GomesCabral/roll-dice
    ```
 2. Navigate to the project folder:
    ```sh
